@@ -11,12 +11,9 @@ O objetivo desta atividade é avaliar a capacidade do aluno em pesquisar, compre
 * **Formato:** A atividade será realizada em **duplas**.
 * **Atribuição:** A cada dupla será **sorteado 1 (um) método** da lista oficial fornecida abaixo.
 
-### Lista de Métodos para Sorteio
+### Lista de Métodos para sortear(foi realizado o sorteio em sala de aula no dia 31/10/25) 
+### OBS: Os alunos que faltaram no dia do sorteio devem fazer duplas e escolher um metodo desta lista:
 
-
-`.map()`, `.filter()`, `.reduce()`, `.forEach()`, `.find()`, `.includes()`, `.findIndex()`, `.some()`, `.every()`, `.split()`, `.pop()`, `.unshift()`, `.shift()`, `.splice()`, `.slice()`, `.join()`, `.toString()`, `.toFixed()`, `Number.parseInt()`, `Number.parseFloat()`, `Number.isNaN()`, `Math.random()`, `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.max()`, `Math.min()`, `Math.abs()`, `JSON.stringify()`, `JSON.parse()` 
-
-### Ordered
 1. .map() 
 2. .filter()
 3. .reduce(), 
@@ -157,4 +154,23 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
     Abra o link do repositório no seu navegador e confirme se o seu arquivo `.js` apareceu lá com o conteúdo correto.
 
 
-## 🛠️ Alunos que faltaram no dia do SORTEI EM SALA podem escolher qualquer um dos metodos que estao na lista, PODENDO ESCOLHER APRESENTAR EM DUPLA OU SOZINHO (ALUNOS QUE FALTARAM O SORTEIO)
+## 🛠️ Alunos que faltaram no dia do SORTEIO EM SALA podem escolher qualquer um dos metodos que estao na lista, PODENDO ESCOLHER APRESENTAR EM DUPLA OU FAZER SOZINHO (EXCECAO PARA OS ALUNOS QUE FALTARAM O SORTEIO)
+
+## ABAIXO ESTA OS METODOS QUE FORAM SORTEADOS PARA OS ALUNOS (DUPLAS) QUE ESTAVAM EM SALA DE AULA:
+
+| ALUNOS (DUPLAS OU SOLO)                                     |  METODO/FUNCAO  |
+| ----------------------------------------------------------- |:---------------:|
+| Ana Laura Bastos e Vinicius Medeiros de Oliveira            | .unshift( )     |
+| Jose Wanderson Silva e Luiz Morais Neto                     | .findIndex( )   |
+| Jose Victor Magalhaes Vieira e Caio de Castro Rodrigues     | .every( )       |
+| Felipe de Oliveira e Jonas Lino                             | .slice( )       |
+| Jolivan de Abreu e Jose Wesley                              | .map( )         |
+| Brenda Marcielly e Grazi                                    | .splice( )      |
+| Rodolfo de Oliveira e Luiza Gustavo                         | .pop( )         |
+| Robson Rodrigues e Guilherme                                |  .filter( )     |
+| Rian Albuquerque Sales                                      | .forEach( )     |
+| Marcos Ryan e Daniel Vinicius                               | .include( )     |
+| Gabriel Moura e Murilo Chaves                               | .reduce( )      |
+| Paulo Cesar (SOLO)                                          | .find( )        |
+| Luan Victor Souza Alves e Lucileudo de Paiva Lopes          | .some( )        |
+|                                                             |                 |
