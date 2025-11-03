@@ -16,6 +16,38 @@ O objetivo desta atividade é avaliar a capacidade do aluno em pesquisar, compre
 
 `.map()`, `.filter()`, `.reduce()`, `.forEach()`, `.find()`, `.includes()`, `.findIndex()`, `.some()`, `.every()`, `.split()`, `.pop()`, `.unshift()`, `.shift()`, `.splice()`, `.slice()`, `.join()`, `.toString()`, `.toFixed()`, `Number.parseInt()`, `Number.parseFloat()`, `Number.isNaN()`, `Math.random()`, `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.max()`, `Math.min()`, `Math.abs()`, `JSON.stringify()`, `JSON.parse()` 
 
+### Ordered
+1. .map() 
+2. .filter()
+3. .reduce(), 
+4. .forEach()
+5. .find() 
+6. .includes()
+7. .findIndex()
+8. .some()
+9. .every()
+10. .split()
+11. .pop()
+12. .unshift()
+13. .shift()
+14. .splice()
+15. .slice()
+16. .join()
+17. .toString()
+18. .toFixed()
+19. Number.parseInt()
+20. Number.parseFloat()
+21. Number.isNaN()
+22. Math.random()
+23. Math.floor()
+24. Math.ceil()
+25. Math.round()
+26. Math.max()
+27. Math.min()
+28. Math.abs()
+29. JSON.stringify()
+30. JSON.parse()
+
 ### 3. O que deve ser Entregue (As Duas Etapas)
 
 A avaliação é composta por duas partes obrigatórias: um arquivo de código e uma apresentação oral.
