@@ -85,7 +85,7 @@ A apresentação deve ser dividida em duas partes:
 * **Parte Prática (Análise do Código):**
     * Apresentar o código-fonte (que foi enviado ao repositório).
     * Explicar qual problema prático o código se propõe a resolver.
-    * Mostrar como o método sorteado foi utilizado para chegar à solução.
+    * Mostrar como o método foi utilizado para chegar à solução.
 
 > **Sugestão de divisão:** Um integrante pode focar na parte teórica, enquanto o outro explica a parte prática.
 
