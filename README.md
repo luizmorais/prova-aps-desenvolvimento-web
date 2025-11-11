@@ -178,3 +178,7 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 
 
 ## 🛠️ QUALQUER DUVIDA ENTRAR EM CONTATO COM A PROFESSORA ROSANA PELO ZAP (85) 9413-2366
+
+** Para conseguir enviar seu arquivo para o repositorio da aps (fazer o push, enviando seu arquivo) o aluno tera duas formas:
+1 - Fazer um FORK do repositorio, fazer o codigo, enviar e depois abrir um PR (Pull Request)
+2 - Me enviar o email ou nome do usuario do seu github para que eu adicione te como colaborador do repositorio. Pfv enviar para o meu zap. 
