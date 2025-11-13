@@ -11,4 +11,3 @@ if (indice !== -1) {
 } else {
     console.log('Pessoa não encontrada.');
 }
-
